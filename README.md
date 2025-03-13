@@ -13,12 +13,9 @@ this application is to test your knowlage in flutter
 
 3. ## the profile data should be populated from this api:
 
-``
 {
-name: "John Doe",
-profession: "PROFESSIONAL PLUMBER",
-status: "verified",
-image: "imageUrl"
-
+  "name": "John Doe",
+  "profession": "PROFESSIONAL PLUMBER",
+  "status": "verified",
+  "image": "imageUrl"
 }
-``
